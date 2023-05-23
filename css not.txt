@@ -1,0 +1,24 @@
+****************************************************
+<style>
+        p{
+            color: red;
+            background-color: aqua;
+            font-size: 20px;
+            font-style: italic;
+        }
+
+    </style>
+head icinde bu sekilde olusturup body icindeki kodlara mudahale edebiliriz
+bir nevi method olusturma gibi.P body icindeki olusturudugumuz yerden geliyor.
+****************************************************
+ <p class="p-class"> body icinde bu sekilde yaparak farkli farkli 
+olusturdugumuz yazilara mudahale edebilirz
+.p-class{
+            background-color: blue;
+
+        }
+****************************************************
+yazdigimiz seylerdeki ic bosluga padding denir.
+margin ise dis boslukla ilgilidir.
+
+inline elementler sadece yatay ve margin de uygulanir.
